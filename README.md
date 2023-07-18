@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @firaskhl
-- 👀 I’m interested in Full Satck development ( HTML/CSS/JAVASCRIPT/REACT/NODE.JS), Blockchain technology and Data Science
-- 🌱 I’m currently learning Deep Learning and Computer Vision
+- 👀 I’m a Cloud & DevOps Engineer with Background in AI 
 - 💞️ I’m looking to collaborate on real projects
 - 📫 How to reach me : khlilfiras7@gmail.com
 
